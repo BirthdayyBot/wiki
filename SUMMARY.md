@@ -17,9 +17,14 @@
 
 ## faq
 
-* [Questions](faq/projects/README.md)
-  * [Announce Birthday at specific Timezone](faq/projects/announce-birthday-at-specific-timezone.md)
+* [General](faq/general.md)
+* [Errors](faq/errors.md)
+* [Birthday](faq/birthday.md)
 
 ## Extras
 
-* [Keyboard Shortcuts](extras/keyboard-shortcuts.md)
+* [Links](extras/links/README.md)
+  * [Discord](extras/links/discord.md)
+  * [Vote](extras/links/vote.md)
+  * [Get Support](extras/links/get-support.md)
+  * [Invite Birthdayy](extras/links/invite-birthdayy.md)

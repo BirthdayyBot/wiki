@@ -1,7 +1,13 @@
 # General
 
 {% hint style="info" %}
-**Good to know:** your product docs aren't just a reference of all your features! use them to encourage folks to perform certain actions and discover the value in your product.
+How to Read these Docs
+
+* Arguments in**`<>`** are _mandatory_.
+* Arguments in**`[]`** are _mandatory_.
+* Anything in curly brackets **`{}`** is an variable.
+
+
 {% endhint %}
 
 ## The basics
