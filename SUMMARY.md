@@ -12,7 +12,8 @@
 
 ## commands
 
-* [General](commands/general.md)
+* [Overview](commands/general.md)
+* [General](commands/general-1.md)
 * [Birthday](commands/birthday.md)
 * [Config](commands/config.md)
 
