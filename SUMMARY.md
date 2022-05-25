@@ -12,9 +12,9 @@
 
 ## commands
 
-* [General](commands/creating-your-first-project.md)
-* [Birthday](commands/advanced-permissions.md)
-* [Config](commands/creating-your-first-task.md)
+* [General](commands/general.md)
+* [Birthday](commands/birthday.md)
+* [Config](commands/config.md)
 
 ## faq
 
