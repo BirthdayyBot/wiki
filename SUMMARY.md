@@ -1,6 +1,7 @@
 # Table of contents
 
 * [What is Birthdayy?](README.md)
+* [What is MyProduct?](readme-1.md)
 * [Quick Start](creating-your-first-project.md)
 
 ## Guides
