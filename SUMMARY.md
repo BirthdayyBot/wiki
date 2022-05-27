@@ -28,5 +28,5 @@
 * [Links](extras/links/README.md)
   * [Discord](extras/links/discord.md)
   * [Vote](extras/links/vote.md)
-  * [Get Support](extras/links/get-support.md)
+  * [Discord](extras/links/get-support.md)
   * [Invite Birthdayy](extras/links/invite-birthdayy.md)
