@@ -12,9 +12,21 @@ description: Get an overview about Birthdayy.
 
 ### What is Birthdayy?
 
-**Birthdayy** is a _per-server_ Discord birthday Bot that helps you to _remind_ yourself and your discord server about _birthdays_ of your server members.
+**Birthdayy** is a user-friendly bot designed to accommodate any kind of discord server across the world with remembering it's user's birthdays in just a couple simple steps.
 
-With the goal created, to provide a much easier to use, more aesthetically pleasing and better understandable Bot, than its competitors, Birthdayy does exactly this.
+### Why is Birthdayy perfect for your server?
+
+* **Easy to set up**&#x20;
+
+&#x20;             Thanks to the command guides you can find on the site and the simple commands it takes to get the bot up and running, Bithdayy is considered to be one of the easiest birthday bots to use based on the feedback it has received.&#x20;
+
+* **Aesthetically Pleasing**
+
+&#x20;             Birthdayy includes a variety of custom emojis to give a more appealing and fun look to each and every single built in command.
+
+* **Helpful Community**
+
+&#x20;                ****                 The developer of the bot is doing his best for the most pleasant user experience when managing the bot, having a dedicated Birthdayy HQ server committed to answering questions, updating on the bot's progress, found bugs, bug fixes, surveys and any kind of news regarding the bot. Accompanied by a few simple users, the small but cooperative community can help you out with any type of questions you may acquire during your time of using it.&#x20;
 
 ### Getting Started
 
