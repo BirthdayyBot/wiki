@@ -12,11 +12,11 @@ description: Get an overview about Birthdayy.
 
 ### What is Birthdayy?
 
-**Birthdayy** is a user-friendly bot designed to accommodate any kind of discord server across the world with remembering it's user's birthdays in just a couple simple steps.
+**Birthdayy** is a user-friendly bot designed to accommodate any kind of discord server across the world with remembering it's user's birthdays in just a couple simple steps.Once the bot is added in a server, announcing and celebrating someone's birthday will be as easy as a piece of birthdayy cake!
 
 ### Why is Birthdayy perfect for your server?
 
-* **Easy to set up**&#x20;
+* **Easy To Set Up**
 
 &#x20;             Thanks to the command guides you can find on the site and the simple commands it takes to get the bot up and running, Bithdayy is considered to be one of the easiest birthday bots to use based on the feedback it has received.&#x20;
 
@@ -26,7 +26,7 @@ description: Get an overview about Birthdayy.
 
 * **Helpful Community**
 
-&#x20;                ****                 The developer of the bot is doing his best for the most pleasant user experience when managing the bot, having a dedicated Birthdayy HQ server committed to answering questions, updating on the bot's progress, found bugs, bug fixes, surveys and any kind of news regarding the bot. Accompanied by a few simple users, the small but cooperative community can help you out with any type of questions you may acquire during your time of using it.&#x20;
+&#x20;                ****                 The developer of the bot is doing his best to provide the most pleasant user experience when managing the bot, having a dedicated Birthdayy HQ server committed to answering questions, updating on the bot's progress, found bugs, bug fixes, surveys and any kind of news regarding the bot. Accompanied by a few simple users, the small but cooperative community can help you out with any type of questions you may acquire during your time of using it.&#x20;
 
 ### Getting Started
 
