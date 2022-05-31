@@ -14,35 +14,40 @@ Example Command Usage: `/birthday list`
 
 ## General
 
-#### `/bugreport <bug>`
-
-`/bugreport <bug>`\
-``File a bug report to the server developer.
+### `bugreport`
+Usage: `/bugreport <bug>`\
+File a bug report to the server developer.
 
 ### `feedback`
-
-`/feedback`\
+*Usage:* `/feedback`\
 Want to review Birthdayy? Feel free to leave some feedback!
 
-`/guide`\
+### `guide`
+*Usage:* `/guide`\
 A simple guide to guide you on how to set-up the bot
 
-`/help [commands]`\
+### `help`
+*Usage:* `/help [commands]`\
 Need help with commands? (subcommands are not supported, at the moment)
 
-`/invite`\
+### `invite`
+*Usage:* `/invite`\
 Invite the bot!
 
-`/status`\
+### `status`
+*Usage:* `/status`\
 Show the status of the bot
 
-`/suggestion <suggestion>`\
+### `suggestion`
+*Usage:* `/suggestion <suggestion>`\
 Have a suggestion for the bot, let us know!
 
-`/support`\
+### `support`
+*Usage:* `/support`\
 To join the support server!
 
-`/vote`\
+### `vote`
+*Usage:* `/vote`\
 Vote for Birthdayy!
 
 ## Birthdayy General
