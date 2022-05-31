@@ -9,74 +9,78 @@ How to Read these Docs
 * Arguments in **`[ ]`** are _optional_.
 {% endhint %}
 
-Prefix: `/`<br>
+Prefix: `/`\
 Example Command Usage: `/birthday list`
 
 ## General
 
+#### `/bugreport <bug>`
+
 `/bugreport <bug>`\
-``File a bug report to the server developer. 
+``File a bug report to the server developer.
+
+### `feedback`
 
 `/feedback`\
-``Want to review Birthdayy? Feel free to leave some feedback! 
+Want to review Birthdayy? Feel free to leave some feedback!
 
 `/guide`\
-``A simple guide to guide you on how to set-up the bot 
+A simple guide to guide you on how to set-up the bot
 
 `/help [commands]`\
-``Need help with commands? (subcommands are not supported, at the moment) 
+Need help with commands? (subcommands are not supported, at the moment)
 
 `/invite`\
-``Invite the bot! 
+Invite the bot!
 
 `/status`\
-``Show the status of the bot
+Show the status of the bot
 
 `/suggestion <suggestion>`\
-``Have a suggestion for the bot, let us know!
+Have a suggestion for the bot, let us know!
 
 `/support`\
-``To join the support server!
+To join the support server!
 
 `/vote`\
-``Vote us!
+Vote for Birthdayy!
 
 ## Birthdayy General
 
 `/birthday register <date> [user]`\
-``Register users' birthday with the bot, using the following format: `DD/MM/YYYY` or `DD/MM/XXXX`
+\`\`Register users' birthday with the bot, using the following format: `DD/MM/YYYY` or `DD/MM/XXXX`
 
 `/birthday update <user> <date>`\
-``Update users' birthday with the bot, using the following format: `DD/MM/YYYY` or `DD/MM/XXXX`
+\`\`Update users' birthday with the bot, using the following format: `DD/MM/YYYY` or `DD/MM/XXXX`
 
 `/birthday remove <user>`\
-``Remove users' birthday from the bot.&#x20;
+\`\`Remove users' birthday from the bot.
 
 `/birthday list`\
-``List all the users' birthday in embed format.&#x20;
+\`\`List all the users' birthday in embed format.
 
 `/birthday show [user]`\
-``Show the user's birthday.
+\`\`Show the user's birthday.
 
 ## Birthdayy Configuration (**for server administrator only**)
 
 `/config status`\
-``To show the overall configuration of the bot.
+\`\`To show the overall configuration of the bot.
 
 `/config logs <channel>`\
-``To set the logs channel for the bot.
+\`\`To set the logs channel for the bot.
 
 `/config overview <channel>`\
-``To set the overview of the birthdayy bot.
+\`\`To set the overview of the birthdayy bot.
 
 `/config announcement <channel>`\
-``To set an announcement channel for the bot
+\`\`To set an announcement channel for the bot
 
 `/config ping-role <role>`\
-``Configure the ping/ mentioned role.
+\`\`Configure the ping/ mentioned role.
 
 `/config birthday-role <role>`\
-``Configure the birthday role.
+\`\`Configure the birthday role.
 
 `/config timezone <zone>`\
-``Configure the timezone region for the bot.
+\`\`Configure the timezone region for the bot.
