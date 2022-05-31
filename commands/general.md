@@ -1,37 +1,50 @@
+---
+description: General commands, that Birthdayy has.
+---
+
 # General
 
 ### `bugreport`
-*Usage:* `/bugreport <bug>`\
+
+_Usage:_ `/bugreport <bug>`\
 File a bug report to the server developer.
 
 ### `feedback`
-*Usage:* `/feedback`\
+
+_Usage:_ `/feedback`\
 Want to review Birthdayy? Feel free to leave some feedback!
 
 ### `guide`
-*Usage:* `/guide`\
+
+_Usage:_ `/guide`\
 A simple guide to guide you on how to set-up the bot
 
 ### `help`
-*Usage:* `/help [commands]`\
+
+_Usage:_ `/help [commands]`\
 Need help with commands? (subcommands are not supported, at the moment)
 
 ### `invite`
-*Usage:* `/invite`\
+
+_Usage:_ `/invite`\
 Invite the bot!
 
 ### `status`
-*Usage:* `/status`\
+
+_Usage:_ `/status`\
 Show the status of the bot
 
 ### `suggestion`
-*Usage:* `/suggestion <suggestion>`\
+
+_Usage:_ `/suggestion <suggestion>`\
 Have a suggestion for the bot, let us know!
 
 ### `support`
-*Usage:* `/support`\
+
+_Usage:_ `/support`\
 To join the support server!
 
 ### `vote`
-*Usage:* `/vote`\
+
+_Usage:_ `/vote`\
 Vote for Birthdayy!

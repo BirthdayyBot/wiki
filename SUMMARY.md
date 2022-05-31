@@ -8,6 +8,7 @@
 * [Register your Birthday](guides/creating-your-first-project.md)
 * [Set up Announcement Channel](guides/advanced-permissions.md)
 * [Set up a Birthday Role](guides/creating-your-first-task.md)
+* [Test your Birthdayy Configuration](guides/test-your-birthdayy-configuration.md)
 
 ## commands
 

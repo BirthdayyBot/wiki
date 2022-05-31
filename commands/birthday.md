@@ -1,21 +1,30 @@
+---
+description: Infos about the /birthday subcommands.
+---
+
 # Birthday
 
 ### `register`
-*Usage:* `/birthday register <date> [user]`\
+
+_Usage:_ `/birthday register <date> [user]`\
 Register users' birthday with the bot, using the following format: `DD/MM/YYYY` or `DD/MM/XXXX`
 
 ### `update`
-*Usage:* `/birthday update <user> <date>`\
+
+_Usage:_ `/birthday update <user> <date>`\
 Update users' birthday with the bot, using the following format: `DD/MM/YYYY` or `DD/MM/XXXX`
 
 ### `remove`
-*Usage:* `/birthday remove <user>`\
+
+_Usage:_ `/birthday remove <user>`\
 Remove users' birthday from the bot.
 
 ### `list`
-*Usage:* `/birthday list`\
+
+_Usage:_ `/birthday list`\
 List all the users' birthday in embed format.
 
 ### `show`
-*Usage:* `/birthday show [user]`\
+
+_Usage:_ `/birthday show [user]`\
 Show the user's birthday.

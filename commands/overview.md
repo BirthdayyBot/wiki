@@ -1,6 +1,11 @@
+---
+description: Get a quick overview over all commands Birthdayy has.
+---
+
 # Overview
 
-**This page lists all usage and information about BirthdayyBot's commands. For more information visit the corresponding help page**
+**This page lists all usage and information about Birthdayy's commands.** \
+**For more information**, **visit the corresponding help page**
 
 {% hint style="info" %}
 How to Read these Docs
@@ -9,46 +14,52 @@ How to Read these Docs
 * Arguments in **`[ ]`** are _optional_.
 {% endhint %}
 
-Prefix: `/`\
-Example Command Usage: `/birthday list`
+> Prefix: /
 
 ## General
 
-`/bugreport <bug>`\
-File a bug report to the server developer. 
-
-`/feedback`\
-Want to review Birthdayy? Feel free to leave some feedback! 
+All general commands of Birthdayy.
 
 `/guide`\
-A simple guide to guide you on how to set-up the bot 
+A simple guide to guide you on how to set up the bot.
 
 `/help [commands]`\
-Need help with commands? (subcommands are not supported, at the moment) 
-
-`/invite`\
-Invite the bot! 
+Need help with commands? (subcommands are not supported, at the moment)
 
 `/status`\
-Show the status of the bot
-
-`/suggestion <suggestion>`\
-Have a suggestion for the bot, let us know!
-
-`/support`\
-To join the support server!
+Show the status of the bot commands.
 
 `/vote`\
 Vote for Birthdayy!
 
+`/invite`\
+Invite the bot!
+
+`/support`\
+Join the support server!
+
+`/feedback`\
+Want to review Birthdayy? Feel free to leave some feedback!
+
+`/suggestion <suggestion>`\
+Have a suggestion for the bot, let us know!
+
+`/bugreport <bug>`\
+File a bug report to the server developer.
+
+{% content-ref url="general.md" %}
+[general.md](general.md)
+{% endcontent-ref %}
+
 ## Birthday
-All subcommands of the `/birthday` command
+
+All subcommands of the `/birthday` command.
 
 `/birthday register <date> [user]`\
-Register users' birthday with the bot, using the following format: `DD/MM/YYYY` or `DD/MM/XXXX`
+Register users' birthday with the bot, using the following format: `DD/MM/YYYY` or `DD/MM/XXXX.`
 
 `/birthday update <user> <date>`\
-Update users' birthday with the bot, using the following format: `DD/MM/YYYY` or `DD/MM/XXXX`
+Update users' birthday with the bot, using the following format: `DD/MM/YYYY` or `DD/MM/XXXX.`
 
 `/birthday remove <user>`\
 Remove users' birthday from the bot.
@@ -59,8 +70,13 @@ List all the users' birthday in embed format.
 `/birthday show [user]`\
 Show the user's birthday.
 
+{% content-ref url="birthday.md" %}
+[birthday.md](birthday.md)
+{% endcontent-ref %}
+
 ## Birthdayy Configuration (**for server manager only**)
-All subcommands of the `/config` command
+
+All subcommands of the `/config` command.
 
 `/config status`\
 To show the overall configuration of the bot.
@@ -69,7 +85,7 @@ To show the overall configuration of the bot.
 To set the logs channel for the bot.
 
 `/config overview <channel>`\
-To set the overview of the birthdayy bot.
+To set the overview of the Birthdayy bot.
 
 `/config announcement <channel>`\
 To set an announcement channel for the bot
@@ -82,3 +98,7 @@ Configure the birthday role.
 
 `/config timezone <zone>`\
 Configure the timezone region for the bot.
+
+{% content-ref url="config.md" %}
+[config.md](config.md)
+{% endcontent-ref %}
