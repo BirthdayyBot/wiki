@@ -1,7 +1,7 @@
 # Table of contents
 
 * [What is Birthdayy?](README.md)
-* [Quick Start](creating-your-first-project.md)
+* [Quick Start](quickstart.md)
 
 ## Guides
 
@@ -11,8 +11,8 @@
 
 ## commands
 
-* [Overview](commands/general.md)
-* [General](commands/general-1.md)
+* [Overview](commands/overview.md)
+* [General](commands/general.md)
 * [Birthday](commands/birthday.md)
 * [Config](commands/config.md)
 
