@@ -12,6 +12,6 @@ Once you enter the command, your birthday will be announced in the specific serv
 
 _**DISCLAIMER:**_ If you wish to keep your age a secret, Birthdayy has your back! Taking the same date as in the previous example, by typing _**/birthday register 29.04.XXXX**_ Birthdayy will accept the date and your age will be safe and sound!
 
-![](../.gitbook/assets/image.png)
-
 ![](<../.gitbook/assets/image (1).png>)
+
+![](<../.gitbook/assets/image (1) (1).png>)
