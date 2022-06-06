@@ -44,8 +44,8 @@ Check out the **quick start** page to learn how to get started with **Birthdayy*
 
 Follow our handy guides to _start_ using the full potential of **Birthdayy** as soon possible:
 
-{% content-ref url="guides/birthday-commands/creating-your-first-project.md" %}
-[creating-your-first-project.md](guides/birthday-commands/creating-your-first-project.md)
+{% content-ref url="guides/creating-your-first-project.md" %}
+[creating-your-first-project.md](guides/creating-your-first-project.md)
 {% endcontent-ref %}
 
 {% content-ref url="guides/creating-your-first-task.md" %}
