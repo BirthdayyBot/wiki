@@ -48,12 +48,12 @@ Follow our handy guides to _start_ using the full potential of **Birthdayy** as 
 [creating-your-first-project.md](guides/creating-your-first-project.md)
 {% endcontent-ref %}
 
-{% content-ref url="guides/config-commands-guides/creating-your-first-task.md" %}
-[creating-your-first-task.md](guides/config-commands-guides/creating-your-first-task.md)
+{% content-ref url="guides/creating-your-first-task.md" %}
+[creating-your-first-task.md](guides/creating-your-first-task.md)
 {% endcontent-ref %}
 
-{% content-ref url="guides/config-commands-guides/advanced-permissions.md" %}
-[advanced-permissions.md](guides/config-commands-guides/advanced-permissions.md)
+{% content-ref url="guides/advanced-permissions.md" %}
+[advanced-permissions.md](guides/advanced-permissions.md)
 {% endcontent-ref %}
 
 {% hint style="danger" %}

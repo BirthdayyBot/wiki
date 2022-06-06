@@ -6,9 +6,9 @@
 ## Guides
 
 * [/config commands guides](guides/config-commands-guides/README.md)
-  * [Set up Announcement Channel](guides/config-commands-guides/advanced-permissions.md)
-  * [Set up an Overview Channel](guides/config-commands-guides/set-up-an-overview-channel.md)
-  * [Set up a Birthday Role](guides/config-commands-guides/creating-your-first-task.md)
+  * [Set up Announcement Channel](guides/advanced-permissions.md)
+  * [Set up an Overview Channel](guides/set-up-an-overview-channel.md)
+  * [Set up a Birthday Role](guides/creating-your-first-task.md)
 * [Register your Birthday](guides/creating-your-first-project.md)
 * [Change up the Server Timezone](guides/change-up-the-server-timezone.md)
 * [Test your Birthdayy Configuration](guides/test-your-birthdayy-configuration.md)
