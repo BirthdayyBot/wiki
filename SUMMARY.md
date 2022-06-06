@@ -9,7 +9,7 @@
   * [Set up Announcement Channel](guides/advanced-permissions.md)
   * [Set up an Overview Channel](guides/set-up-an-overview-channel.md)
   * [Set up a Birthday Role](guides/creating-your-first-task.md)
-  * [Change up the Server Timezone](guides/change-up-the-server-timezone.md)
+  * [Change up the Server Timezone](guides/config-commands-guides/change-up-the-server-timezone.md)
   * [Set Up a Ping Role](guides/config-commands-guides/set-up-a-ping-role.md)
 * [/birthday commands](guides/birthday-commands/README.md)
   * [Register your Birthday](guides/creating-your-first-project.md)

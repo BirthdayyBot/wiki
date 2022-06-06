@@ -19,3 +19,9 @@ _**DISCLAIMER:**_ If you wish to keep your age a secret, Birthdayy has your back
 ![](<../.gitbook/assets/image (1).png>)
 
 ![](<../.gitbook/assets/image (1) (1).png>)
+
+
+
+{% hint style="success" %}
+Enjoy what Birthdayy offers you? Make sure to support us by clicking on [https://docs.birthdayy.xyz/extras/links/vote](https://docs.birthdayy.xyz/extras/links/vote) and voting with just a simple click on as many sites as possible!
+{% endhint %}
