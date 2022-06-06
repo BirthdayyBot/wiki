@@ -8,4 +8,4 @@ In case the birthday list is way too long for you to find a member's birthday, y
 
 
 
-(insert pictue)
+![](../../.gitbook/assets/grafik.png)
