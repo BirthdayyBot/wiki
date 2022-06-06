@@ -16,6 +16,6 @@ The Birthdayy bot is a _**per-server**_ bot. This means that if a few of the ser
 
 _**DISCLAIMER:**_ If you wish to keep your age a secret, Birthdayy has your back! Taking the same date as in the previous example, by typing _**/birthday register 29.04.XXXX**_ Birthdayy will accept the date and your age will be safe and sound!
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../../.gitbook/assets/image (1).png>)
 
-![](<../.gitbook/assets/image (1) (1).png>)
+![](<../../.gitbook/assets/image (1) (1).png>)

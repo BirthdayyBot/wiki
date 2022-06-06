@@ -18,15 +18,15 @@ description: Get an overview about Birthdayy.
 
 * **Easy To Set Up**
 
-Thanks to the command guides you can find on the site and the simple commands it takes to get the bot up and running, Bithdayy is considered to be one of the easiest birthday bots to use based on the feedback it has received.
+&#x20;Thanks to the command guides you can find on the site and the simple commands it takes to get the bot up and running, Bithdayy is considered to be one of the easiest birthday bots to use based on the feedback it has received.
 
 * **Aesthetically Pleasing**
 
-Birthdayy includes a variety of custom emojis to give a more appealing and fun look to each and every single built in command.
+&#x20;Birthdayy includes a variety of custom emojis to give a more appealing and fun look to each and every single built in command.
 
 * **Helpful Community**
 
-\*\*\*\* The developer of the bot is doing his best to provide the most pleasant user experience when managing the bot, having a dedicated Birthdayy HQ server committed to answering questions, updating on the bot's progress, found bugs, bug fixes, surveys and any kind of news regarding the bot. Accompanied by a few simple users, the small but cooperative community can help you out with any type of questions you may acquire during your time of using it.
+&#x20;The developer of the bot is doing his best to provide the most pleasant user experience when managing the bot, having a dedicated Birthdayy HQ server committed to answering questions, updating on the bot's progress, found bugs, bug fixes, surveys and any kind of news regarding the bot. Accompanied by a few simple users, the small but cooperative community can help you out with any type of questions you may acquire during your time of using it.
 
 ### Getting Started
 
@@ -44,8 +44,8 @@ Check out the **quick start** page to learn how to get started with **Birthdayy*
 
 Follow our handy guides to _start_ using the full potential of **Birthdayy** as soon possible:
 
-{% content-ref url="guides/creating-your-first-project.md" %}
-[creating-your-first-project.md](guides/creating-your-first-project.md)
+{% content-ref url="guides/birthday-commands/creating-your-first-project.md" %}
+[creating-your-first-project.md](guides/birthday-commands/creating-your-first-project.md)
 {% endcontent-ref %}
 
 {% content-ref url="guides/creating-your-first-task.md" %}
