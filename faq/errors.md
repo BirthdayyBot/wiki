@@ -23,6 +23,8 @@ Go to the Server Settings 🠮 Roles 🠮 Default Permissions and check that the
 
 ![](../.gitbook/assets/image.png)
 
+![Discord's statement to this Bug](<../.gitbook/assets/grafik (1).png>)
+
 {% hint style="info" %}
 Still not working? Visit the  Birthdayy HQ to get additional Support!
 {% endhint %}
