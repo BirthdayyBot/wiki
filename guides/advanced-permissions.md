@@ -1,5 +1,5 @@
 ---
-description: In this quick Guide, you will learn how to set up an announcement channel.
+description: In this quick guide, you will learn how to set up an announcement channel.
 ---
 
 # Set up Announcement Channel
@@ -9,3 +9,7 @@ Announcing someone's birthday is going to be hard to do if the Birthdayy bot doe
 Once the command is used, on the day of someone's birthday, a reminder/celebration message should appear on the specific channel.
 
 ![](<../.gitbook/assets/image (5).png>)
+
+{% hint style="success" %}
+Enjoy what Birthdayy offers you? Make sure to support us by clicking on [https://docs.birthdayy.xyz/extras/links/vote](https://docs.birthdayy.xyz/extras/links/vote) and voting with just a simple click!
+{% endhint %}

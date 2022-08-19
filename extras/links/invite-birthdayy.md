@@ -1,5 +1,5 @@
 ---
-description: Invite Birthdayy on your Server.
+description: Invite Birthdayy on your Discord Server.
 ---
 
 # Invite Birthdayy

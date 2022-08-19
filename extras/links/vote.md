@@ -15,7 +15,3 @@ Vote for Birthdayy on Top.GG
 {% embed url="https://discord-botlist.eu/vote/916434908728164372" %}
 Vote for Birthdayy on discord-botlist.eu
 {% endembed %}
-
-{% embed url="https://discordlist.space/bot/916434908728164372/upvote" %}
-Vote for Birthdayy on discordlist.space
-{% endembed %}

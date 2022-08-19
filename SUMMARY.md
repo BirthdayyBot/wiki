@@ -34,7 +34,7 @@
 ## Extras
 
 * [Links](extras/links/README.md)
-  * [Support & Community Discord](extras/links/discord.md)
-  * [Vote](extras/links/vote.md)
   * [Invite Birthdayy](extras/links/invite-birthdayy.md)
+  * [Vote](extras/links/vote.md)
+  * [Support & Community Discord](extras/links/discord.md)
   * [Ideas & Bugs](extras/links/ideas-and-bugs.md)

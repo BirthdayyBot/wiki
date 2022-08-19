@@ -1,5 +1,7 @@
 ---
-description: In this quick Guide, you will learn how to update birthdays.
+description: >-
+  In this quick guide, you will learn how to update your or someone else's
+  birthday.
 ---
 
 # Update Birthdays

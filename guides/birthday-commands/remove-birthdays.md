@@ -1,5 +1,7 @@
 ---
-description: In this quick Guide, you will learn how to remove birthdays.
+description: >-
+  In this quick guide, you will learn how to remove the birthday of you or
+  someone else.
 ---
 
 # Remove Birthdays

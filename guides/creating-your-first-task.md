@@ -1,9 +1,21 @@
 ---
-description: In this quick Guide, you will learn how to set up a custom birthday role.
+description: In this quick guide, you will learn how to set up a custom birthday role.
 ---
 
 # Set up a Birthday Role
 
-Everyone should feel special on their birthday, and that's why Birthday has added a _**Birthday Role**_!
+Everyone should feel special on their birthday, and that's why Birthday gives you the option to assign a _**Birthday Role**_ for a day to the birthday child!
 
-If the owner of the server wishes to add a role that last for _**24 hours**_, so everyone can see whose birthday it is, they first need to add a role from the server settings. Once the customizing is done, typing _**/config birthday-role**_ and then clicking on the newly made role, when it's someone's birthday they will have the role until the end of the day.
+If you wish to gift a special role on someone's birthday, first create a new role and make sure that the Bots role is above the new one. Next, use _**/config birthday-role**_ and select the role that should get assigned. Once you receive the confirmation message, you should be good to go.
+
+#### 1. Create Birthday child role and put the Bot role is above it
+
+![Birthdayy Bot role is above the birthday child role](../.gitbook/assets/BotOverBirthdayRole)
+
+#### 2. Use /config birthday-role and select the desired role
+
+![Select the Birthay Child Role](../.gitbook/assets/grafik.png)
+
+#### 3. Set config successfully
+
+![Success message](<../.gitbook/assets/grafik (3).png>)

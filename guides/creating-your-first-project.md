@@ -1,5 +1,7 @@
 ---
-description: In this quick Guide, you will learn how to register your Birthday
+description: >-
+  In this quick guide, you will learn how to register your Birthday or other
+  Birthdays
 ---
 
 # Register your Birthday
@@ -8,7 +10,7 @@ Adding your birthday is one of the simplest tasks that can be done with the bot.
 
 For example, if your birthday is on April 29th 2008, your command should look like _**/birthday register 29.04.2008**_
 
-Once you enter the command, your birthday will be announced in the specific server on the day of your birthday for all the members to see and wish you a happy birthday!&#x20;
+Once you enter the command, your birthday will be announced in the specific server on the day of your birthday for all the members to see and wish you a happy birthday!
 
 {% hint style="info" %}
 The Birthdayy bot is a _**per-server**_ bot. This means that if a few of the servers you're in include BIrthdayy, your birthday date will appear on only the ones you register on, _**NOT**_ the other ones.
@@ -20,8 +22,6 @@ _**DISCLAIMER:**_ If you wish to keep your age a secret, Birthdayy has your back
 
 ![](<../.gitbook/assets/image (1) (1).png>)
 
-
-
 {% hint style="success" %}
-Enjoy what Birthdayy offers you? Make sure to support us by clicking on [https://docs.birthdayy.xyz/extras/links/vote](https://docs.birthdayy.xyz/extras/links/vote) and voting with just a simple click on as many sites as possible!
+Enjoy what Birthdayy offers you? Make sure to support us by clicking on [https://docs.birthdayy.xyz/extras/links/vote](https://docs.birthdayy.xyz/extras/links/vote) and voting with just a simple click!
 {% endhint %}
