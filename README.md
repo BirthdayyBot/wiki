@@ -18,7 +18,12 @@ description: Get an overview about Birthdayy.
 
 * **Easy To Set Up**
 
-Thanks to the command guides you can find on the site and the simple commands it takes to get the bot up and running, Bithdayy is considered to be one of the easiest birthday bots to use based on the feedback it has received.
+Thanks to the command guides you can find on the site and the simple commands it takes to get the bot up and running, Birthdayy is considered to be one of the easiest birthday bots to use based on the feedback it has received.
+
+* **Innovative Features**
+
+Birthdayy was created with the Intention to provide features that are outstanding and missing on other Birthday Bots on the market. \
+You can be sure, that you will have amazing features when using Birthdayy.
 
 * **Aesthetically Pleasing**
 
@@ -44,16 +49,16 @@ Check out the **quick start** page to learn how to get started with **Birthdayy*
 
 Follow our handy guides to _start_ using the full potential of **Birthdayy** as soon possible:
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="guides/config-commands-guides/set-up-announcement-channel.md" %}
+[set-up-announcement-channel.md](guides/config-commands-guides/set-up-announcement-channel.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="guides/birthday-commands/register-your-birthday.md" %}
+[register-your-birthday.md](guides/birthday-commands/register-your-birthday.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="guides/config-commands-guides/set-up-a-birthday-role.md" %}
+[set-up-a-birthday-role.md](guides/config-commands-guides/set-up-a-birthday-role.md)
 {% endcontent-ref %}
 
 {% hint style="danger" %}
