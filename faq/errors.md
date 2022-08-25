@@ -1,7 +1,6 @@
 ---
 description: >-
-  Anything not working? Check out this Error FAQ Page to get the most common
-  questions answered.
+  Anything not working? Check out this Error FAQ Page to get the most common questions answered.
 ---
 
 # Errors
@@ -12,11 +11,12 @@ This is a common Error, that emojis are not showing up as emojis in Discord. The
 
 Possible causes:
 
-* Everyone Role missing “Use External Emoji” Permissions
-* Bot Role disabled “Use External Emoji” Permissions
-* The highest Role of the Bot has disabled “Use External Emoji” Permissions
+- Everyone Role missing “Use External Emoji” Permissions
+- Bot Role disabled “Use External Emoji” Permissions
+- Channel disabled "Use External Emoji" Permissions
+- The highest Role of the Bot has disabled “Use External Emoji” Permissions
 
-The most often Cause  of this issue is Discord related. \
+The most often Cause of this issue is Discord related. \
 Go to the Server Settings 🠮 Roles 🠮 Default Permissions and check that the “Use External Emoji” permission is activated.
 
 ![](<../.gitbook/assets/image (3).png>)
@@ -26,7 +26,7 @@ Go to the Server Settings 🠮 Roles 🠮 Default Permissions and check that the
 ![Discord's statement to this Bug](<../.gitbook/assets/grafik (1).png>)
 
 {% hint style="info" %}
-Still not working? Visit the  Birthdayy HQ to get additional Support!
+Still not working? Visit the Birthdayy HQ to get additional Support!
 {% endhint %}
 
 {% embed url="https://docs.birthdayy.xyz/extras/links/discord" %}
