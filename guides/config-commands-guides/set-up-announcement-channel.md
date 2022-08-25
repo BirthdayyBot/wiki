@@ -8,4 +8,4 @@ Announcing someone's birthday is going to be hard to do if the Birthdayy bot doe
 
 Once the command is used, on the day of someone's birthday, a reminder/celebration message should appear on the specific channel.
 
-<figure><img src="../../.gitbook/assets/BirthdayAnnouncement.png" alt=""><figcaption><p>Birthday Announcement</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption><p>Birthday Announcement</p></figcaption></figure>

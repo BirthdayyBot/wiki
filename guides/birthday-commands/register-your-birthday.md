@@ -20,9 +20,9 @@ The Birthdayy bot is a _**per-server**_ bot. This means that if a few of the ser
 
 If you wish to keep your age a secret, Birthdayy has your back! Taking the same date as in the previous example, by typing _**/birthday register 29.04.XXXX**_ Birthdayy will accept the date and your age will be safe and sound!
 
-<figure><img src="../../.gitbook/assets/BirthdayRegister.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/BirthdayAddedSuccess.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
 Enjoy what Birthdayy offers you? Make sure to support us by clicking on [https://docs.birthdayy.xyz/extras/links/vote](https://docs.birthdayy.xyz/extras/links/vote) and voting with just a simple click!

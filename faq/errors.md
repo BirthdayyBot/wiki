@@ -20,11 +20,19 @@ Possible causes:
 The most often Cause of this issue is Discord related.\
 Go to the Server Settings 🠮 Roles 🠮 Default Permissions and check that the “Use External Emoji” permission is activated.
 
-![](../.gitbook/assets/Step1FixEmojiBug.png)
+![](<../.gitbook/assets/image (3).png>)
 
-![](../.gitbook/assets/Step345FixEmojiBug.png)
+![](../.gitbook/assets/image.png)
 
-![Discord's statement to this Bug](../.gitbook/assets/DiscordStatementEmoji.png)
+![Discord's statement to this Bug](<../.gitbook/assets/grafik (1).png>)
+
+## Something went wrong while registering the Birthday.
+
+<figure><img src="../.gitbook/assets/RegisterWentWrong.png" alt=""><figcaption></figcaption></figure>
+
+**Get this Error while registering?** As the Error suggests, you might have used a wrong date.
+
+The correct format is: _**DD.MM.YYYY**_ so for example _29.01.2003_ for the _29._ January _2003._
 
 {% hint style="info" %}
 Still not working? Visit the Birthdayy HQ to get additional Support!
