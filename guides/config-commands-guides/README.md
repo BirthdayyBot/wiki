@@ -18,22 +18,22 @@ By typing _**/help**_ you can check out all the commands that are available, let
 
 ### Available /config guides
 
-{% content-ref url="../advanced-permissions.md" %}
-[advanced-permissions.md](../advanced-permissions.md)
+{% content-ref url="../set-announcement-channel.md" %}
+[set-announcement-channel.md](../set-announcement-channel.md)
 {% endcontent-ref %}
 
-{% content-ref url="../set-up-an-overview-channel.md" %}
-[set-up-an-overview-channel.md](../set-up-an-overview-channel.md)
+{% content-ref url="../set-overview-channel.md" %}
+[set-overview-channel.md](../set-overview-channel.md)
 {% endcontent-ref %}
 
-{% content-ref url="../creating-your-first-task.md" %}
-[creating-your-first-task.md](../creating-your-first-task.md)
+{% content-ref url="../set-birthday-role.md" %}
+[set-birthday-role.md](../set-birthday-role.md)
 {% endcontent-ref %}
 
-{% content-ref url="change-up-the-server-timezone.md" %}
-[change-up-the-server-timezone.md](change-up-the-server-timezone.md)
+{% content-ref url="set-server-timezone.md" %}
+[set-server-timezone.md](set-server-timezone.md)
 {% endcontent-ref %}
 
-{% content-ref url="set-up-a-ping-role.md" %}
-[set-up-a-ping-role.md](set-up-a-ping-role.md)
+{% content-ref url="set-ping-role.md" %}
+[set-ping-role.md](set-ping-role.md)
 {% endcontent-ref %}
