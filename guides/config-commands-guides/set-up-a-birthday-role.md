@@ -10,7 +10,7 @@ If you wish to gift a special role on someone's birthday, first create a new rol
 
 #### 1. Create Birthday child role and put the Bot role is above it
 
-<figure><img src="../../.gitbook/assets/BotOverBirthdayRole.png" alt=""><figcaption><p>Birthdayy Bot role is above the birthday child role</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/BotOverBirthdayRole" alt=""><figcaption><p>Birthdayy Bot role is above the birthday child role</p></figcaption></figure>
 
 #### 2. Use /config birthday-role and select the desired role
 
