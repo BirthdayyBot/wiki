@@ -4,7 +4,7 @@ description: Get a quick overview over all commands Birthdayy has.
 
 # Overview
 
-**This page lists all usage and information about Birthdayy's commands.** \
+**This page lists all usage and information about Birthdayy's commands.**\
 **For more information**, **visit the corresponding help page**
 
 {% hint style="info" %}
@@ -55,19 +55,19 @@ File a bug report to the server developer.
 
 All subcommands of the `/birthday` command.
 
-`/birthday register <date> [user]`\
-Register users' birthday with the bot, using the following format: `DD/MM/YYYY` or `DD/MM/XXXX.`
+``[`/birthday register <day> <month> [year] [user]`](../guides/birthday-commands/register-your-birthday.md)\
+Register users' birthday with the bot.
 
-`/birthday update <user> <date>`\
-Update users' birthday with the bot, using the following format: `DD/MM/YYYY` or `DD/MM/XXXX.`
+``[`/birthday update <user> <day> <month> [year]`](../guides/birthday-commands/update-birthdays.md) `` \
+Update users' birthday with the bot.
 
-`/birthday remove <user>`\
+``[`/birthday remove <user>`](../guides/birthday-commands/remove-birthdays.md)\
 Remove users' birthday from the bot.
 
 `/birthday list`\
 List all the users' birthday in embed format.
 
-`/birthday show [user]`\
+``[`/birthday show [user]`](../guides/birthday-commands/showing-someones-birthday.md)\
 Show the user's birthday.
 
 {% content-ref url="birthday.md" %}
@@ -84,21 +84,21 @@ To show the overall configuration of the bot.
 `/config logs <channel>`\
 To set the logs channel for the bot.
 
-`/config overview <channel>`\
+``[`/config overview <channel>`](../guides/set-up-an-overview-channel.md)\
 To set the overview of the Birthdayy bot.
 
-`/config announcement <channel>`\
+``[`/config announcement <channel>`](../guides/config-commands-guides/set-up-announcement-channel.md)\
 To set an announcement channel for the bot
 
-`/config ping-role <role>`\
+``[`/config ping-role <role>`](../guides/config-commands-guides/set-up-a-ping-role.md)\
 Configure the ping/ mentioned role.
 
-`/config birthday-role <role>`\
+``[`/config birthday-role <role>`](../guides/config-commands-guides/set-up-a-birthday-role.md)\
 Configure the birthday role.
 
-`/config timezone <zone>`\
+``[`/config timezone <zone>`](../guides/config-commands-guides/change-up-the-server-timezone.md)\
 Configure the timezone region for the bot.
 
-{% content-ref url="config.md" %}
-[config.md](config.md)
-{% endcontent-ref %}
+`/config announcement-message <message>`\
+``Change the default Birthday announcement message. (Birthdayy Premium requred).\
+Available Variables: _**{MENTION}**_, _**{USERNAME}**_, _**{DISCRIMINATOR}**_, _**{LINE\_BREAK}**_, _**{SERVERNAME}**_

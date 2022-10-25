@@ -38,3 +38,12 @@ Configure the birthday role.
 
 _Usage:_ `/config timezone <zone>`\
 Configure the timezone region for the bot.
+
+### `announcement-message`
+
+_Usage:_ `/config announcement-message <message>`\
+Change the default Announcement Message to a custom one
+
+{% hint style="success" %}
+Available to Birthdayy Premium User!
+{% endhint %}

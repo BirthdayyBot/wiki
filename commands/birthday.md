@@ -6,13 +6,13 @@ description: Infos about the /birthday subcommands.
 
 ### `register`
 
-_Usage:_ `/birthday register <date> [user]`\
-Register users' birthday with the bot, using the following format: `DD/MM/YYYY` or `DD/MM/XXXX`
+_Usage:_ `/birthday register <day> <month> [year] [user]`\
+Register a user's birthday.
 
 ### `update`
 
-_Usage:_ `/birthday update <user> <date>`\
-Update users' birthday with the bot, using the following format: `DD/MM/YYYY` or `DD/MM/XXXX`
+_Usage:_ `/birthday update <user> <day> <month> [year]`\
+Update a user's birthday.
 
 ### `remove`
 
