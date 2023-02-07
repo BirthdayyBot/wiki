@@ -30,6 +30,7 @@
 * [General](faq/general.md)
 * [Errors](faq/errors.md)
 * [Birthday](faq/birthday.md)
+* [Premium](faq/birthday-1.md)
 
 ## Extras
 
