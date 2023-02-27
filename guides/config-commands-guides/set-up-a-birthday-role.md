@@ -14,7 +14,7 @@ If you wish to gift a special role on someone's birthday, first create a new rol
 
 #### 2. Use /config birthday-role and select the desired role
 
-<figure><img src="../../.gitbook/assets/grafik.png" alt=""><figcaption><p>Select the Birthay Child Role</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/grafik (2).png" alt=""><figcaption><p>Select the Birthay Child Role</p></figcaption></figure>
 
 #### 3. Set config successfully
 
