@@ -1,5 +1,3 @@
 # Ideas & Bugs
 
-{% embed url="https://trello.com/b/9CyWUlX4/ideas-birthdayy" %}
-Trelloboard
-{% endembed %}
+{% embed url="https://github.com/BirthdayyBot/BirthdayyBotSapphire/issues" %}
