@@ -20,7 +20,7 @@ The Issue is way more common on Mobile Phones, espeacially Android. PC users sho
 
 ## The Announcement Message Embed is not displayed on someone's birthday?
 
-<figure><img src="../.gitbook/assets/grafik (4).png" alt=""><figcaption><p>Birthdayy only sends out a PingRole Mention</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/grafik (4) (1).png" alt=""><figcaption><p>Birthdayy only sends out a PingRole Mention</p></figcaption></figure>
 
 If you are facing this issue, check in the Role Settings, if the PingRole has enabled the "Allow anyone to @mention this role" Permission.&#x20;
 

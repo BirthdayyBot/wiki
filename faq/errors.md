@@ -24,7 +24,7 @@ Go to the Server Settings 🠮 Roles 🠮 Default Permissions and check that the
 
 ![](../.gitbook/assets/image.png)
 
-![Discord's statement to this Bug](<../.gitbook/assets/grafik (1).png>)
+![Discord's statement to this Bug](<../.gitbook/assets/grafik (1) (1).png>)
 
 ## Something went wrong while registering the Birthday.
 
